@@ -1,7 +1,7 @@
-.ipynb_checkpoints
-*pdf
-*png
-*npz
-ConfigSummary.txt
-ConfigDetails.txt
-*_sqlite.db
+.ipynb_checkpoints/*
+*.pdf
+*.png
+*.npz
+*sqlite.db
+configDetails.txt
+configSummary.txt
