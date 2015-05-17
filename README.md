@@ -27,6 +27,7 @@ http://ops2.tuc.noao.edu/runs/enigma_1189/data/enigma_1189_sqlite.db.gz
 
 ### Solar System and Astrometry Notebooks
 * [AstrometryMetrics.v3.ipynb](https://github.com/lsst-sims/sims_maf_notebooks/blob/master/notebooks/AstrometryMetrics.v3.ipynb):  Example of running our proper motion and parallax metrics.  
+* [Solar System metrics](https://github.com/rhiannonlynne/MafSSO/blob/master/Prototype%20SSO%20Metrics.ipynb) Prototype of solar system style metrics, available from the MafSSO repository. 
 
 ### Transient Notebooks
 * [TransientMetric.v3.ipynb](https://github.com/lsst-sims/sims_maf_notebooks/blob/master/notebooks/TransientMetric.v3.ipynb):  Example of our transient metric where you can set a simple transient light-curve shape and set a variety of detection criteria to measure the fraction of such transients LSST can recover.
